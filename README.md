@@ -27,10 +27,12 @@ $ python app.py
 ```
 "/api/generate/" To Generate The File
 ```
+
 # To Download The File 
- ```
+```
 '/api/download/<int:file_id>' file_id is generated file_id (will be return on generate api)
 ```
+
 # To Get The Report
 ```
 '/api/download/<int:file_id>' file_id is generated file_id (will be return on generate api)
