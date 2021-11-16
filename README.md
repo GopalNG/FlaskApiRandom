@@ -38,4 +38,4 @@ $ python app.py
 '/api/download/<int:file_id>' file_id is generated file_id (will be return on generate api)
 ```
 
-## To Know Packages in requirements.txt
+## To Know Packages reffer in requirements.txt
